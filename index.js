@@ -8,5 +8,5 @@ const returnLastTwoDrivers = function (drivers) {
 }
 
 const selectingDrivers = function (drivers) {
-  console.log([returnFirstTwoDrivers(drivers), returnLastTwoDrivers(drivers)]}
+  console.log([returnFirstTwoDrivers(drivers), returnLastTwoDrivers(drivers)])
 }
